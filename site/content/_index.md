@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with CAFFIENE"
-subtitle: Support sustainable farming while enjoying a cup of caffiene
+title: "Great coffee with CAFFeiNE"
+subtitle: Support sustainable farming while enjoying a cup of caffeine
 image: /img/home-jumbotron.jpg
 blurb:
     heading: TEST Why Kaldi?
